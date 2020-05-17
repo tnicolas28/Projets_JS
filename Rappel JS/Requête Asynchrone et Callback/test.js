@@ -1,0 +1,1 @@
+console.log("Hey c'est test.js !");
